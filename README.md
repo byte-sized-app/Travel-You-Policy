@@ -46,8 +46,6 @@ You have the option to upload a created trip to our servers to get a shareable l
 
 We believe you should have full control over your data's lifecycle.
 
-*   **Automatic Deletion:** By default, any trip data (photos and coordinates) you upload to our servers will be **automatically and permanently deleted one (1) year** after the date of upload. We do this to minimize the amount of personal data we store.
-
 *   **User-Controlled Deletion:** You have full control over your shared content. You can delete any of your uploaded trips **directly from within the App at any time**. This action is often presented as "Stop Sharing" or "Delete Trip." Upon taking this action, the trip and all its associated photos and data will be permanently deleted from our servers. This deletion process is initiated immediately. Deletion propagation may take a few days depending on our server provider.
 
 ### 5. Data Security
